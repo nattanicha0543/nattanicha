@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:700px){
     main{
         flex-direction: column;
     }
@@ -42,7 +42,7 @@ nav{
 }
 .nav-link{
     text-align: center;
-    width:32em; 
+    width:100%; 
     display: inline-block;
     border: 2px solid none;
     padding: 6px;
